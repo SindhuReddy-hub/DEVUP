@@ -1,0 +1,28 @@
+Title: AI-Driven FinOps Automation for SRE Teams Using Agentic Architectures
+
+Abstract:
+
+In modern cloud-native environments, FinOps practices are crucial for optimizing costs while maintaining system reliability. Site Reliability Engineering (SRE) teams often receive cost-optimization recommendations through various channels such as emails or alerts—commonly involving routine yet critical tasks like moving S3 buckets to more cost-effective storage tiers. Manually processing these tasks is time-consuming and error-prone.
+
+This project proposes an AI-driven automation system that leverages agentic AI architectures to act upon cost-optimization instructions autonomously. By parsing incoming emails or messages, the system identifies actionable tasks and dynamically generates corresponding infrastructure "recipes"—automated scripts or workflows that safely execute cloud resource optimizations.
+
+The system is designed to:
+
+Interpret unstructured inputs (e.g., human-written emails)
+
+Generate and validate infrastructure-level actions (e.g., AWS CLI recipes)
+
+Execute them with minimal supervision
+
+Continuously learn from feedback to improve future decisions
+
+This approach not only accelerates FinOps execution but also enhances operational reliability by reducing manual intervention. It represents a step toward self-operating cloud cost governance, empowering SRE teams to focus on strategic reliability goals.
+
+Would you like to adjust the tone (e.g., more technical, more concise), add architecture/tools you plan to use (e.g., Rasa, LangChain, AWS), or add a catchy title?
+
+
+
+
+
+
+
