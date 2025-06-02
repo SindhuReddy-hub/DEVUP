@@ -31,9 +31,8 @@ ________________________________________
 •	Matplotlib / SHAP for model explainability (optional)
 ________________________________________
 🧪 Sample Dataset (Example Schema)
-Incident_ID	Timestamp	Component	Error_Code	Downtime(min)	Logs_Summary	Severity	Root_Cause
-INC12345	2024-01-05 14:32:00	Router-X200	E102	45	link unstable...	High	Faulty Equipment
-INC12346	2024-01-06 10:05:00	DB-Server-09	E403	10	auth token expired...	Low	Config Error
+
+![image](https://github.com/user-attachments/assets/e8a102e3-f61a-4c0b-a620-42b52865dd1b)
 ________________________________________
 🧠 Model Training (XGBoost)
 •	Classification model trained to:
