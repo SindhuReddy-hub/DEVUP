@@ -50,10 +50,10 @@ o	Root Cause
 •	Optional: Visual explanation of the prediction using SHAP plots
 •	Dark/light theme toggle
 ________________________________________
-✅ Key Benefits<
-•	<br>Reduced Mean Time to Resolution (MTTR) </br>
-•	<br> Data-backed root cause analysis </br>
-•	<br> Scalable across domains (e.g., manufacturing, IT Ops, telecom)</br>
+✅ Key Benefits
+<br>•	Reduced Mean Time to Resolution (MTTR) </br>
+<br>•	Data-backed root cause analysis </br>
+<br>• Scalable across domains (e.g., manufacturing, IT Ops, telecom)</br>
 ________________________________________
 📊 Results (Sample)
 •	Severity prediction accuracy: 91%
