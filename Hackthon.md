@@ -51,7 +51,7 @@ o	Root Cause
 •	Dark/light theme toggle
 ________________________________________
 ✅ Key Benefits
-•	Reduced Mean Time to Resolution (MTTR)
+•	Reduced Mean Time to Resolution (MTTR) <br>Key Benefits </br>
 •	Data-backed root cause analysis
 •	Scalable across domains (e.g., manufacturing, IT Ops, telecom)
 ________________________________________
