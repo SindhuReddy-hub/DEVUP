@@ -21,19 +21,7 @@ ________________________________________
 🏗️ System Design Overview
 ![Archi](https://github.com/user-attachments/assets/9e8ff63a-6d18-4554-9b68-7119c0ca6cbc)
 
-Incident Data (CSV/DB/Logs)
-         │
-         ▼
- Data Preprocessing & Feature Engineering
-         │
-         ▼
-  XGBoost Classification/Multiclass Model
-         │
-         ├─────────► Severity Prediction
-         │
-         └─────────► Root Cause Prediction
-         ▼
-     Streamlit-based UI for Real-time Input & Prediction
+
 ________________________________________
 ⚙️ Tech Stack
 •	Python for data handling and modeling
