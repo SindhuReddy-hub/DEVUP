@@ -19,6 +19,8 @@ ________________________________________
 •	Enable faster incident triaging and resolution via a machine learning-based decision support system.
 ________________________________________
 🏗️ System Design Overview
+![Archi](https://github.com/user-attachments/assets/9e8ff63a-6d18-4554-9b68-7119c0ca6cbc)
+
 Incident Data (CSV/DB/Logs)
          │
          ▼
