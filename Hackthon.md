@@ -53,7 +53,7 @@ ________________________________________
 ✅ Key Benefits
 <br>•	Reduced Mean Time to Resolution (MTTR) </br>
 <br>•	Data-backed root cause analysis </br>
-<br>• Scalable across domains (e.g., manufacturing, IT Ops, telecom)</br>
+• Scalable across domains (e.g., manufacturing, IT Ops, telecom)</br>
 ________________________________________
 📊 Results (Sample)
 •	Severity prediction accuracy: 91%
