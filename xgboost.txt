@@ -1,0 +1,40 @@
+Hackathon Project Proposal
+Project Title:
+Data-Driven Impact Severity & Root Cause Analysis Using XGBoost
+One-Liner:
+Use machine learning to assess incident severity and rapidly identify root causes—empowering faster, smarter resolutions in operational environments.
+Abstract:
+In large-scale industrial or IT operations, incidents can significantly disrupt service and efficiency. This project proposes a machine learning-driven approach using XGBoost to evaluate the severity of incidents and identify their root causes quickly. By leveraging historical data, the system predicts incident severity, classifies probable root causes (e.g., faulty equipment), and provides interpretable insights for rapid triage and resolution. This reduces mean time to resolution (MTTR) and enhances operational reliability.
+Problem Statement:
+Manually assessing the impact and determining the root cause of incidents in complex systems is time-consuming and inefficient. This results in delayed resolutions and increased operational downtime.
+Proposed Solution:
+This solution uses an XGBoost model trained on historical incident data to:
+1. Predict severity levels of new incidents.
+2. Identify likely root causes.
+3. Visualize contributing features using SHAP.
+4. Provide actionable insights in real time via a dashboard.
+How It Works:
+Inputs:
+- Historical incident data (logs, tags, categories, timestamps)
+- Severity labels and known root causes
+
+Pipeline:
+1. Preprocessing: Clean and encode data.
+2. Modeling: XGBoost for classification of severity and root cause.
+3. Interpretation: SHAP for feature importance.
+4. Visualization: Streamlit app for real-time predictions.
+Tech Stack:
+- Python (pandas, xgboost, scikit-learn, SHAP)
+- Streamlit or Flask for frontend (optional)
+- Simulated or anonymized incident data for model training
+Impact:
+- Faster root cause analysis
+- Reduced incident resolution time
+- Integration potential with platforms like ServiceNow or Jira
+- Enhanced trust in incident management systems
+Hackathon Deliverables:
+- Working XGBoost model on sample data
+- Predictive outputs for severity and root cause
+- SHAP visualizations
+- Streamlit demo (optional)
+- Pitch deck or demo video
