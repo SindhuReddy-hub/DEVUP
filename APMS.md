@@ -26,6 +26,9 @@ RCA Documents & PARC Chat Logs
        │
        ▼
   ServiceNow Integration (via API or platform connector)
+
+  ![Untitled (1)](https://github.com/user-attachments/assets/a5521f91-a0bd-468b-9362-03fbddc99374)
+
 ________________________________________
 ⚙️ Tech Stack
 • Python (for NLP pipeline and integration)
