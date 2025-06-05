@@ -1,5 +1,8 @@
 📌 Project Title
-Automated Problem Management System (APMS)
+Automated Problem Management System (APMS)![Untitled (3)](https://github.com/user-attachments/assets/ab887c82-40c5-48b9-bcac-f99b327f08a5)
+
+
+
 ________________________________________
 📄 Abstract
 In large-scale enterprise environments like JPMC, managing recurring incidents and their underlying problems is crucial for maintaining service reliability. Manual problem record creation from RCA (Root Cause Analysis) documents and PARC (Problem and Root Cause) chat discussions is labor-intensive, error-prone, and inconsistent.
