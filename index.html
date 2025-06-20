@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>InsightTele Bot</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="d-flex vh-100">
+    <!-- Sidebar -->
+    <div class="bg-light p-3 border-end" style="width: 300px;">
+      <h5 class="fw-bold">🤖 InsightTele Bot</h5>
+      <hr/>
+      <p class="fw-bold mb-1">Analysis Dashboard</p>
+      <p><span class="badge bg-success">Complete</span></p>
+
+      <p class="fw-bold mt-4">Active Agents</p>
+      <ul class="list-group mb-3">
+        <li class="list-group-item">✅ Problem Analyzer</li>
+        <li class="list-group-item">🧠 Cause Identifier</li>
+        <li class="list-group-item">💡 Solution Recommender</li>
+      </ul>
+
+      <p class="fw-bold">Session Controls</p>
+      <button class="btn btn-outline-secondary w-100 mb-2" onclick="clearChat()">🗑 Clear Chat</button>
+      <button class="btn btn-primary w-100" onclick="newAnalysis()">🆕 New Analysis</button>
+
+      <div class="form-check mt-4">
+        <input class="form-check-input" type="checkbox" id="debugToggle"/>
+        <label class="form-check-label" for="debugToggle">Show API Details</label>
+      </div>
+    </div>
+
+    <!-- Chat Panel -->
+    <div class="flex-grow-1 d-flex flex-column p-4">
+      <div id="chatWindow" class="flex-grow-1 overflow-auto mb-3 border p-3 bg-white rounded shadow-sm" style="height: 80vh;"></div>
+      <div class="input-group">
+        <input type="text" id="userInput" class="form-control" placeholder="Type your message..." />
+        <button class="btn btn-success" onclick="sendMessage()">Send</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
