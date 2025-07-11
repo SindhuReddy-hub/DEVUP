@@ -1,0 +1,32 @@
+Please find below the summary of my key accomplishments and progress from January to June 2025:
+
+🤖 Chatbot & AWS Integration
+Developed and deployed a Rasa-based chatbot integrated with key AWS services:
+
+S3, ECR, Lambda, RDS, Step Functions
+
+Successfully implemented and launched the frontend UI for the chatbot with user-friendly features.
+
+☁️ CloudProtect Project
+Led end-to-end implementation for CloudProtect:
+
+Onboarded API and developed Python scripts to extract and process data.
+
+Set up GOS database with multiple schemas following best practices.
+
+Wrote and deployed Python code for data ingestion and storage.
+
+🛠️ Deployment & Job Scheduling
+Gained hands-on experience and successfully deployed code to VSI (Sophia).
+
+Learned and configured AutoSys job scheduling for automation tasks.
+
+📦 Other Projects & Technical Contributions
+Explored GCR data to support analysis for an ongoing project.
+
+Set up and tested Guardland project in a local development environment.
+
+🎓 Learning & Upskilling
+Attended and completed training in:
+
+Fit4Future – AI Driven Modern Testing Course
